@@ -2,6 +2,7 @@ machine:
   node:
     version: 6.3.0
 deployment:
+  production:
     branch: master
     heroku:
       appname: joanthree
